@@ -13,7 +13,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 
 
 url = 'http://student1.iauyazd.ac.ir/mechanizeh/studentportal/'
-driver = webdriver.Chrome('/home/mortezaghasemi/Downloads/CompleterArzyabi-master/chromedriver')
+driver = webdriver.Chrome('/home/mortezaghasemi/Downloads/IauyArzeshyabi/chromedriver')
 driver.maximize_window()
 driver.get(url)
 driver.find_element_by_id('txtUsername').send_keys("USERNAME")
