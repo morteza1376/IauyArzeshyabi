@@ -1,5 +1,5 @@
 # IauyArzeshyabi
-<div style="text-align:right;" >
+<div style="text-align:right;direction:rtl" >
 پر کن خودکار برای دانشگاه آزاد یزد
 <br>
 با این اسکریپت شما میتونید فرم ارزشیابی اساتید دانشگاه آزاد یزد رو به سرعت پر کنید.
