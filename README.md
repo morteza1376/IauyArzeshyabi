@@ -1,4 +1,5 @@
 # IauyArzeshyabi
+<div style="text-align:right;" >
 پر کن خودکار برای دانشگاه آزاد یزد
 <br>
 با این اسکریپت شما میتونید فرم ارزشیابی اساتید دانشگاه آزاد یزد رو به سرعت پر کنید.
@@ -12,3 +13,9 @@ python form.py
 USERNAME شماره دانشجویی خودتون رو <br>
 PASSWORD رمز خودتون رو <br>
 وارد کنید.
+
+<br>
+<br>
+<img src="https://github.com/morteza1376/IauyArzeshyabi/blob/master/Screenshot%20from%202019-01-02%2015-05-13.png?raw=true">
+لطفا آدرس فایل درایور کروم رو متناسب با سیستم خودتون تغییر بدین.
+</div>
