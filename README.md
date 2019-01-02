@@ -1,10 +1,14 @@
 # IauyArzeshyabi
 <img src="https://github.com/morteza1376/IauyArzeshyabi/blob/master/Screenshot.png?raw=true">
-<div style="text-align:right;direction:rtl" >
-پر کن خودکار برای دانشگاه آزاد یزد
+##پر کن خودکار برای دانشگاه آزاد یزد
 <br>
 با این اسکریپت شما میتونید فرم ارزشیابی اساتید دانشگاه آزاد یزد رو به سرعت پر کنید.
 
+#نصب
+<a href="https://github.com/morteza1376/IauyArzeshyabi/archive/master.zip">دانلود</a>
+
+
+#اجرا
 دستور برای اجرای اسکریپت : <br>
 python form.py
 
@@ -19,4 +23,3 @@ PASSWORD رمز خودتون رو <br>
 <br>
 <img src="https://github.com/morteza1376/IauyArzeshyabi/blob/master/Screenshot%20from%202019-01-02%2015-05-13.png?raw=true">
 لطفا آدرس فایل درایور کروم رو متناسب با سیستم خودتون تغییر بدین.
-</div>
